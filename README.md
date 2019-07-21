@@ -1,7 +1,7 @@
 # Production-Control
 
-This project is the initail step in building a contorl system, for a mid size textile factory.
-This Step will includ:
+This project is the initial step in building a control system, for a mid size textile factory.
+This Step will include:
 - Building a work flow.
 - Data and Data types.
 - Initial DB.
